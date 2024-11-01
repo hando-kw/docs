@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-14 21:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: .\api\helpers\send_otp.py:60
+msgid "An OTP has already been sent to this mobile number."
+msgstr ""
+
+#: .\api\helpers\send_otp.py:76 .\api\helpers\send_otp.py:92
+msgid "Failed to send OTP."
+msgstr ""
+
+#: .\api\helpers\send_otp.py:87 .\api\users\views.py:22
+msgid "OTP sent successfully."
+msgstr ""
+
+#: .\api\users\serializers.py:13 .\api\users\serializers.py:22
+#: .\api\users\views.py:23
+msgid "Invalid mobile number."
+msgstr "رقم الجوال غير صحيح."
+
+#: .\api\users\views.py:42 .\api\users\views.py:62
+msgid "Invalid OTP."
+msgstr ""
+
+#: .\api\users\views.py:107 .\api\users\views.py:130
+msgid "This field is required."
+msgstr ""
+
+#: .\app\lookups\models.py:5
+msgid "Name (EN)"
+msgstr ""
+
+#: .\app\lookups\models.py:6
+msgid "Name (AR)"
+msgstr ""
+
+#: .\app\lookups\models.py:7 .\app\users\models.py:53 .\app\users\models.py:81
+msgid "Created At"
+msgstr ""
+
+#: .\app\lookups\models.py:8 .\app\users\models.py:82
+msgid "Updated At"
+msgstr ""
+
+#: .\app\users\models.py:22
+msgid "Full Name"
+msgstr ""
+
+#: .\app\users\models.py:23
+msgid "Email"
+msgstr ""
+
+#: .\app\users\models.py:24 .\app\users\models.py:49
+msgid "Mobile"
+msgstr ""
+
+#: .\app\users\models.py:38
+msgid "User with this Email already exists"
+msgstr ""
+
+#: .\app\users\models.py:50
+msgid "OTP"
+msgstr ""
+
+#: .\app\users\models.py:51
+msgid "Action"
+msgstr ""
+
+#: .\app\users\models.py:52
+msgid "Expires At"
+msgstr ""
+
+#: .\app\users\models.py:59
+msgid "Apartment"
+msgstr ""
+
+#: .\app\users\models.py:60
+msgid "Home"
+msgstr ""
+
+#: .\app\users\models.py:61
+msgid "Office"
+msgstr ""
+
+#: .\app\users\models.py:66
+msgid "User"
+msgstr ""
+
+#: .\app\users\models.py:67
+msgid "City"
+msgstr ""
+
+#: .\app\users\models.py:69
+msgid "Name"
+msgstr ""
+
+#: .\app\users\models.py:70
+msgid "Building Name"
+msgstr ""
+
+#: .\app\users\models.py:71
+msgid "Building Number"
+msgstr ""
+
+#: .\app\users\models.py:72
+msgid "Street Name"
+msgstr ""
+
+#: .\app\users\models.py:73
+msgid "Apartment Number"
+msgstr ""
+
+#: .\app\users\models.py:74
+msgid "Floor Number"
+msgstr ""
+
+#: .\app\users\models.py:75
+msgid "Block Number"
+msgstr ""
+
+#: .\app\users\models.py:76
+msgid "Additional Information"
+msgstr ""
+
+#: .\app\users\models.py:77
+msgid "Latitude"
+msgstr ""
+
+#: .\app\users\models.py:78
+msgid "Longitude"
+msgstr ""
+
+#: .\app\users\models.py:79
+msgid "Address Type"
+msgstr ""
+
+#: .\app\users\models.py:80
+msgid "Is Deleted"
+msgstr ""
